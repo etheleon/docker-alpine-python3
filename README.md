@@ -12,7 +12,7 @@ Download size of this image is only:
 Usage Example
 -------------
 
-This image is based on frolvlad/alpine-python3
+This image is based on etheleon/alpine-python3
 
 ```bash
 $ docker run --rm etheleon/docker-alpine-python3 python3 -c 'print("Hello World")'
